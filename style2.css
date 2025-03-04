@@ -16,3 +16,38 @@
 td:nth-child(even) {
   background-color: blue;
 }
+.bvfuu {
+  font-size: 24px;
+}
+th:hover {
+  background-color: crimson;
+  cursor: pointer;
+}
+th:first-child {
+  background-color: blue;
+}
+th:last-child {
+  background-color: deeppink;
+}
+td:nth-child(3n) {
+  background-color: blueviolet;
+}
+td:nth-child(odd) {
+  background-color: coral;
+}
+td:hover {
+  background-color: green;
+  cursor: pointer;
+}
+.fdefg:hover {
+  background-color: darkorange;
+  cursor: pointer;
+}
+.uefhvbuev:hover {
+  background-color: deeppink;
+  cursor: pointer;
+}
+.urugyy:hover {
+  background-color: lightcoral;
+  cursor: pointer;
+}
